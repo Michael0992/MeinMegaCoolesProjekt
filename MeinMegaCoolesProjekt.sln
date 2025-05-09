@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeinMegaCoolesProjekt", "MeinMegaCoolesProjekt\MeinMegaCoolesProjekt.csproj", "{55766DF6-4C40-473E-B4AE-DEBB512FF1F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55766DF6-4C40-473E-B4AE-DEBB512FF1F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55766DF6-4C40-473E-B4AE-DEBB512FF1F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55766DF6-4C40-473E-B4AE-DEBB512FF1F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55766DF6-4C40-473E-B4AE-DEBB512FF1F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EC8FD73-69B2-46D2-9DCB-D10092552449}
+	EndGlobalSection
+EndGlobal
